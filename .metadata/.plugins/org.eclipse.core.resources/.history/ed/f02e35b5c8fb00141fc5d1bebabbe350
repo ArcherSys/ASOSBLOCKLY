@@ -1,0 +1,7 @@
+/** @namespace ArcherSysOS
+ * The JavaScript Namespace for dealing with client 
+ * side ArcherSysOS.
+ */
+var ArcherSysOS = {
+		
+};

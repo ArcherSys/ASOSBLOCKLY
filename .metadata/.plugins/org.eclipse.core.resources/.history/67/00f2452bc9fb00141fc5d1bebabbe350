@@ -1,0 +1,6 @@
+
+var ArcherSysOS = {
+		/**
+		 * The Namespace for client side ArcherSys OS Operations
+		 */
+};

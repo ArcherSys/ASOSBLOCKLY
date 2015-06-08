@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+K:\ArcherVMPeridot\htdocs\core\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2577244234.index
+785938924.index
+3753893184.index
+3412626109.index
+4113650807.index

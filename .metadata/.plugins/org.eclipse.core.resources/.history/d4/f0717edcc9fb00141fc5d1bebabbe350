@@ -1,0 +1,19 @@
+
+var ArcherSysOS = {
+		/** @namespace ArcherSysOS
+		 *  @author Weldon Henson
+		 *  @version 3.4.0
+		 *  @license MIT
+		 *  
+		 *  The Namespace for client side ArcherSys OS Operations
+		 */
+		defineClass: function(constructor,methods,statics){
+			/** The Class Creator for ArcherSys OS.
+			 * @constructor Class
+			 * @param constructor (Function) The Constructor
+			 */
+			if(methods){
+				
+			}
+		}
+};

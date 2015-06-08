@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431779687713_2" label="ArcherSysJS" name="ArcherSysJS">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ArcherSysJS" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431747590681_0" label="Window Working Set" name="Aggregate for window 1431747588975"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1431779427706_1" label="Window Working Set" name="Aggregate for window 1431779427706"/>
+<mruList name="ArcherSysJS"/>
+</workingSetManager>
